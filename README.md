@@ -22,8 +22,8 @@ AWS Certified Developer – Associate
 
 | Project | What it is |
 |---|---|
-| pdf-tool | Browser-based PDF toolkit — merge, split, compress, rotate, watermark, and more. Files never leave your machine. |
-| [one-timer](https://github.com/LukeGeneva/one-timer) | Share sensitive information via one-time links. Encryption key lives in the URL fragment — the server never sees it. |
+| PDF Tool | Browser-based PDF toolkit — merge, split, compress, rotate, watermark, and more. Files never leave your machine. |
+| [One-Timer](https://github.com/LukeGeneva/one-timer) | Share sensitive information via one-time links. Encryption key lives in the URL fragment — the server never sees it. |
 
 ---
 
