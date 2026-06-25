@@ -6,8 +6,8 @@
 
 [![l8a.dev](https://img.shields.io/badge/l8a.dev-1565C0?style=for-the-badge&logoColor=white)](https://l8a.dev)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeGeneva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
-<img height="165" src="https://streak-stats.demolab.com/?user=LukeGeneva&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LukeGeneva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
+<img height="150" src="https://streak-stats.demolab.com/?user=LukeGeneva&theme=tokyonight&hide_border=true" />
 
 </div>
 
