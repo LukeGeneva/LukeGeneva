@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeGeneva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeGeneva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
 &nbsp;
 <img height="165" src="https://streak-stats.demolab.com/?user=LukeGeneva&theme=tokyonight&hide_border=true" />
 
