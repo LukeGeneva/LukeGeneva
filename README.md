@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Luke%20Geneva&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=58&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:00897B&height=220&section=header&text=Luke%20Geneva&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Makes%20computers%20do%20things&descAlignY=58&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+financial+platforms;Developer+tools+%26+experiments;Making+browsers+do+the+impossible)](https://l8a.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00B09B&center=true&vCenter=true&width=600&lines=git+commit+-m+'fix';It+works+on+my+machine;LARPing+as+MacGyver+and+the+Lone+Gunmen)](https://l8a.dev)
 
 <br/>
 
-[![l8a.dev](https://img.shields.io/badge/l8a.dev-667eea?style=for-the-badge&logoColor=white)](https://l8a.dev)
+[![l8a.dev](https://img.shields.io/badge/l8a.dev-1565C0?style=for-the-badge&logoColor=white)](https://l8a.dev)
 
 <br/>
 <br/>
@@ -17,14 +17,6 @@
 
 </div>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukeGeneva/LukeGeneva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LukeGeneva/LukeGeneva/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LukeGeneva/LukeGeneva/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00897B,100:1565C0&height=120&section=footer" />
 </div>
