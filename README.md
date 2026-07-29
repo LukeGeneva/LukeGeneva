@@ -6,8 +6,6 @@
 
 [![l8a.dev](https://img.shields.io/badge/l8a.dev-1565C0?style=for-the-badge&logoColor=white)](https://l8a.dev)
 
-<img height="150" src="https://streak-stats.demolab.com/?user=LukeGeneva&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <div align="center">
